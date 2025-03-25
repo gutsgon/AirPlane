@@ -1,2 +1,2 @@
 # AirPlane
-JavaScript API build by Node.js with database PostgreeSQL
+JavaScript API build by Node.js with database PostgreSQL
